@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="C1Gz]U^KEKN9u@J{?{bq">mySprite</variable><variable id=",9ule3RupJ[8jkx`$$lq">Pikachu</variable></variables><block type="pxt-on-start" id="m(#{`MsW+$xvZ[7#oIs}" x="0" y="0"><statement name="HANDLER"><block type="run_image_animation" id="wMY=93~goQqq)UC)J{))"><value name="sprite"><block type="variables_get" id="[5N+IVP*|nrJM0bwS5PQ"><field name="VAR" id=",9ule3RupJ[8jkx`$$lq">Pikachu</field></block></value><value name="frames"><shadow type="animation_editor" id="KylA_=G(Jeg9j4ch|V4c"><field name="frames">[img`
+6 6 6 6 f f 6 f f 6 6 6 6 6 6 6 
+6 6 6 6 5 5 5 5 5 6 6 6 6 6 6 6 
+6 6 6 5 5 5 5 5 5 5 6 6 6 6 6 6 
+6 6 6 5 2 5 5 5 2 5 6 6 6 6 6 6 
+6 6 6 5 5 5 f 5 5 5 6 6 6 6 6 6 
+6 6 6 5 f f 2 f f 5 6 6 6 6 6 6 
+6 6 6 5 f 2 2 2 f 5 6 6 6 6 6 6 
+6 6 6 5 5 5 5 5 5 5 6 6 6 6 6 6 
+6 6 6 6 5 5 5 5 5 6 6 6 6 6 6 6 
+6 6 6 6 6 5 5 5 6 6 6 6 6 6 6 6 
+6 6 6 6 6 5 5 5 6 6 6 6 6 6 6 6 
+6 6 6 5 5 5 5 5 5 5 6 6 6 6 6 6 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+6 6 6 5 5 5 5 5 5 5 6 6 6 6 6 6 
+6 6 6 6 5 5 5 5 5 6 6 6 6 6 6 6 
+`]</field><data>{"commentRefs":[],"fieldData":{"frames":null}}</data></shadow></value><value name="frameInterval"><shadow type="timePicker" id="xMQ#tCs1?UK}:[N^e7wg"><field name="ms">500</field></shadow></value><value name="loop"><shadow type="toggleOnOff" id="5(T?+0hC#(0NvI6!I|a]"><field name="on">true</field></shadow></value><next><block type="camerafollow" id="kM9DI~!mZ:KaQ4*S)2eN"><value name="sprite"><block type="variables_get" id="AIv=}0Op*NQ=dL6hS-!3"><field name="VAR" id=",9ule3RupJ[8jkx`$$lq">Pikachu</field></block></value></block></next></block></statement></block><block type="stop_animations" id="JCE9PFvT)vj~A4ED63T2" disabled-reasons="pxt_automatic_disabled" x="5" y="483"><field name="type">animation.AnimationTypes.All</field><value name="sprite"><block type="variables_get" id="^w*1QIc1DD0+ldk/ev55" disabled-reasons="pxt_automatic_disabled"><field name="VAR" id=",9ule3RupJ[8jkx`$$lq">Pikachu</field></block></value></block></xml>
